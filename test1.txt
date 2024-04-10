@@ -1,11 +1,4 @@
-<<<<<<< ours
-jkjdksfjdsf
-sdkfhdksjfksdhf
-dsfhdkshfs
-dsfhdshfldsjf
-dgfhgjhkjlk
-=======
-aaaaaaaaa
-bbbbbbbbbbbbbb
-dfghjkghgjkjaaaa
->>>>>>> theirs
+dfghjj
+dfskdhs
+dfdsfs
+
