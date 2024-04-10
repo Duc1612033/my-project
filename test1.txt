@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-jdlfkjsdlkfjdsfldsfk
-djfjsljfkdsljfkdlsfj
-=======
+
 aaaaaaaaa
 bbbbbbbbbbbbbb
->>>>>>> main
+jdlfkjsdlkfjdsfldsfk
+djfjsljfkdsljfkdlsfj
+
