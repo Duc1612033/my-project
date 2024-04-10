@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 jdlfkjsdlkfjdsfldsfk
 djfjsljfkdsljfkdlsfj
+=======
+aaaaaaaaa
+bbbbbbbbbbbbbb
+>>>>>>> main
